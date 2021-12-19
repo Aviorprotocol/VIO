@@ -67,7 +67,7 @@ We're more than simply a token; we're the future of decentralization and exchang
 **Max Supply:** 61,7000,000 $VIO
 
 
-![Logo](https://drive.google.com/file/d/1SmtZt8NZx-atFvyy-nFcyjxYja2KBzLp/view?usp=sharing)
+[Logo](https://drive.google.com/file/d/1SmtZt8NZx-atFvyy-nFcyjxYja2KBzLp/view?usp=sharing)
 
 
 

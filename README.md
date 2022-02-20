@@ -62,9 +62,11 @@ We're more than simply a token; we're the future of decentralization and exchang
 
 **Symbol:** $VIO
 
-**Blockchain:** Multichain
+**Smart Contract Addres:** 0xd081dCa1ac799886d84D0AfBD8CD9C56855b8D2B
 
-**Max Supply:** 61,7000,000 $VIO
+**Blockchain:** Binance Smart Chain
+
+**Max Supply:** 61,9700,000 $VIO
 
 
 [Logo](https://drive.google.com/file/d/1SmtZt8NZx-atFvyy-nFcyjxYja2KBzLp/view?usp=sharing)

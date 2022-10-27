@@ -1,5 +1,5 @@
 
-![MIT License](https://img.shields.io/badge/Avior%20Protocol-High--Powered%20Multi--Chain%20Protocol-red)
+![MIT License](https://img.shields.io/badge/Avior%20Protocol-High--Powered%20Solana--Chain%20Protocol-red)
 
 
 # Avior Protocol

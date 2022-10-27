@@ -75,5 +75,5 @@ We're more than simply a token; we're the future of decentralization and exchang
 
 ## Support
 
-For support, email support@aviorprtocol.io or join our Telegram channel https://t.me/aviorprtocol.
+For support, email support@aviorprtocol.org or join our Telegram channel https://t.me/aviorprtocol.
 

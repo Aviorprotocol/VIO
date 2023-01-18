@@ -17,7 +17,7 @@ We're more than simply a token; we're the future of decentralization and exchang
 
 ## Documentation
 
-[Whitepaper](https://drive.google.com/file/d/10ENPEAb43lM_oA-W6Ebf-D6spFU1IjY9/view?usp=sharing&utm_campaign=Weekly%20newsletter%20of%20Avior%20Protocol&utm_medium=email&utm_source=Revue%20newsletter)
+[Whitepaper](https://drive.google.com/file/d/1UbrikJfV-vbOvhUgRO1uXlEL7_wbdC9z/view?usp=sharing)
 
 
 ## Roadmap
